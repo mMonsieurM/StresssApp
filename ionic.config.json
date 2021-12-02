@@ -1,0 +1,7 @@
+{
+  "name": "StresssApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
