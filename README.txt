@@ -1,3 +1,8 @@
+Stress - Stress Yourself For The Pleasure ! 
+
+Pour pouvoir utiliser cette application en ligne : 
+https://stresss.netlify.app
+
 Pour pouvoir utiliser cette application en local : 
 
 0.  Télécharger le dossier complet.
