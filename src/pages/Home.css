@@ -1,0 +1,66 @@
+.background {
+    background-color: var(--color-background);
+    height: 100%;
+    color: var(--color-primary);
+    text-align : center;
+}
+
+.header {
+    padding: 1rem;
+}
+
+.body {
+
+    font-family: var(--font-family-normal);
+    font-style: var(--font-style-normal);
+    font-size: var(--font-size-normal);
+    
+}
+
+.scorezone {
+    padding: 50px 0px;
+    
+    
+}
+
+.rose {
+    color: var(--color-fourth);
+}
+
+.record {
+    font-style: var(--font-style-light);
+    font-weight: var(--font-weight-light);
+    
+}
+
+.destroy-button {
+    margin: 40px 0px;
+    padding: 50px 80px;
+    border-radius: 15px;
+
+    font-family: var(--font-family-normal);
+    font-style: var(--font-style-normal);
+    font-weight: var(--font-weight-normal);
+    font-size: var(--font-size-normal);
+    
+    background-image: linear-gradient(to right bottom, #feff89, #ffec7c, #ffda73, #ffc86d, #ffb669, #ffa563, #ff9461, #ff8262, #fe6b63, #fa5169, #f33471, #e8007d);
+}
+
+.destroy-button:hover {
+    transform: scale(1.1);
+}
+
+.retry-button {
+    margin: 40px 0px;
+    padding: 20px 80px;
+    border-radius: 15px;
+
+    font-family: var(--font-family-normal);
+    font-style: var(--font-style-normal);
+    font-weight: var(--font-weight-normal);
+    font-size: var(--font-size-normal);
+
+    background-color: white;
+    color : black;
+
+}

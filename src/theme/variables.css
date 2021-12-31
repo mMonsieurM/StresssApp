@@ -1,10 +1,31 @@
 /* Ionic Variables and Theming. For more info, please see:
 http://ionicframework.com/docs/theming/ */
 
-/** Ionic CSS Variables **/
+
+/** CSS Variables **/
 :root {
+
+  /* Stress Design System  */
+
+  --font-family-normal: 'Exo', serif;
+  --font-style-normal: italic;
+  --font-weight-normal: 900;
+  --font-size-normal: 20px;
+
+  --font-weight-light: 400;
+
+  --font-family-light : "Regular 400";
+
+  --color-background: #291E06;
+  --color-primary: #FEFF89;
+  --color-secondary: #FF9F68;
+  --color-third: #F85959; 
+  --color-fourth: #E8007D; 
+
+  --ion-font-family: 'Exo2';
+
   /** primary **/
-  --ion-color-primary: #3880ff;
+  --ion-color-primary: #FEFF89;
   --ion-color-primary-rgb: 56, 128, 255;
   --ion-color-primary-contrast: #ffffff;
   --ion-color-primary-contrast-rgb: 255, 255, 255;
