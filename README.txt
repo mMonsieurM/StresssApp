@@ -1,5 +1,7 @@
 Stress - Stress Yourself For The Pleasure ! 
 
+Suivi du projet (Roadmap, Trello, Prototype) : https://whimsical.com/stresss-X1DYG4CcnJFtKmedPFXy5k
+
 Pour pouvoir utiliser cette application en ligne : 
 https://stresss.netlify.app
 
